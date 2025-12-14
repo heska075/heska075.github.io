@@ -1,0 +1,286 @@
+#holidaySeperator {
+    height: 15px;
+    width: 100%;
+    background-image: url(../ui/holiday/fairy_lights.png);
+    background-repeat: repeat-x;
+    background-size: 150px;
+    background-position: 50%;
+    border-radius: 6px;
+}
+
+#tankGrid.holidayBackground {
+    background-image: url(../ui/holiday/snow_particles.png);
+    min-height: 500px;
+    background-repeat: repeat;
+    background-size: 300px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+body {
+    background: #0f1115;
+    font-family: "Inter", sans-serif;
+    color: #fff;
+    margin: 0;
+    padding: 20px 0 0;
+    letter-spacing: 0.25px;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#tabs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 6px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    user-select: none;
+}
+
+.flagIcon {
+    width: 22px;
+    height: 22px;
+    object-fit: contain;
+    margin-right: 6px;
+    vertical-align: middle;
+}
+
+#tabs button {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    background: #1c1e24;
+    border: 1px solid #333;
+    padding: 8px 14px;
+    border-radius: 6px;
+    cursor: pointer;
+    color: #ddd;
+    transition: 0.2s;
+}
+
+#tabs button:hover {
+    background: #262931;
+}
+
+#tabs .activeTab {
+    background: #454b57;
+    border-color: #666;
+    color: #fff;
+}
+
+#tankGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 16px;
+    padding-bottom: 40px;
+}
+
+.tankCard {
+    background: rgba(28, 31, 38, 0.7);
+    border: 1px solid rgba(45, 48, 56, 0.8);
+    border-radius: 10px;
+    padding: 12px;
+    text-align: center;
+    transition: 0.2s;
+    cursor: pointer;
+    user-select: none;
+}
+
+.tankCard.premium {
+    background: linear-gradient(
+        rgba(255, 215, 0, 0.12),
+        rgba(255, 215, 0, 0.12)
+    ), rgba(28, 31, 38, 0.7);
+    border-color: rgba(255, 215, 0, 0.25);
+    h3 {
+        color: rgb(255, 183, 0);
+    }
+}
+
+.tankCard.collector {
+    background: linear-gradient(
+        rgba(70, 170, 255, 0.12),
+        rgba(70, 170, 255, 0.12)
+    ), rgba(28, 31, 38, 0.7);
+    border-color: rgba(70, 170, 255, 0.30);
+    h3 {
+        color: rgb(0, 183, 255);
+    }
+}
+
+.tankCard:hover {
+    background: rgba(38, 42, 51, 1);
+    transform: translateY(-2px);
+}
+
+.tankCard.premium:hover {
+    background: linear-gradient(
+        rgba(255, 215, 0, 0.22),
+        rgba(255, 215, 0, 0.22)
+    ), rgba(38, 42, 51, 1);
+    border-color: rgba(255, 215, 0, 0.4);
+}
+
+.tankCard.collector:hover {
+    background: linear-gradient(
+        rgba(70, 170, 255, 0.22),
+        rgba(70, 170, 255, 0.22)
+    ), rgba(38, 42, 51, 1);
+    border-color: rgba(70, 170, 255, 0.45);
+}
+
+.tankCard img {
+    width: 100%;
+    height: 120px;
+    object-fit: contain;
+    margin-bottom: 8px;
+    filter: drop-shadow(-1px -1px 4px black) brightness(115%);
+}
+
+.tankCard h3 {
+    margin: 6px 0;
+    font-size: 18px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100%;
+    display: block;
+}
+
+.tankCard .meta {
+    font-size: 14px;
+    color: #aaa;
+}
+
+.pricePopup {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.55);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 999;
+}
+
+.pricePopup.hidden {
+    display: none;
+}
+
+.popupWindow {
+    background: #333;
+    width: 550px;
+    border-radius: 12px;
+    border: 1px solid white;
+    padding: 20px;
+    transform: scale(0.85);
+    opacity: 0;
+    animation: popupOpen 0.35s ease forwards;
+}
+
+h2#popupTitle {
+    text-align: center;
+    margin-top: 0px;
+}
+
+.popup-tank-image {
+    display: block;
+    max-width: 100%;
+    max-height: 220px;
+    margin: 0 auto 30px;
+    object-fit: contain;
+    user-select: none;
+    filter: drop-shadow(-1px -1px 4px black) brightness(115%);
+}
+
+
+.priceTable.camoTable {
+    margin-top: 20px;
+}
+
+.priceTable.camoTable.hidden {
+    margin-top: 0;
+}
+
+.camo-images {
+    display: flex;
+    gap: 8px;
+    justify-content: flex-end;
+    align-items: center;
+    filter: drop-shadow(-1px -1px 4px black) brightness(115%);
+    user-select: none;
+}
+
+.camo-images img.tank-camo {
+    width: 100px;
+    height: auto;
+}
+
+.camo-images img.camo-icon {
+    width: 48px;
+    height: auto;
+}
+
+@keyframes popupOpen {
+    to {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+.closeBtn {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: none;
+    background: #ddd;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.priceTable {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.priceTable tr:not(:last-child) {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+    padding-bottom: 8px;
+}
+
+.priceTable td {
+    padding: 6px 0;
+}
+
+.priceTable td p {
+    margin: unset;
+}
+
+.priceTable td.value-cell {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.priceTable td:last-child {
+    text-align: right;
+    font-weight: bold;
+}
+
+.currency-icon {
+    height: auto;
+    width: 17px;
+    user-select: none;
+}

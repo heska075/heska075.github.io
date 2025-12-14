@@ -1,0 +1,97 @@
+﻿DEV ID;National ID;Letter ID;Full Name;Short Name;Tier;Class;Type;Price (Credits);Price (XP);Price (Gold);Restoration Price (Credits);Restorarion Price (Gold);Sale Price (Credits);Sale Price (Gold)
+14977;58;Pl21;CS-63;CS-63;X;Medium;Tech Tree;6.100.000;235.000;-;-;-;3.050.000;-
+5505;21;Cz04;TVP T 50/51;TVP T 50/51;X;Medium;Tech Tree;6.100.000;250.200;-;-;-;3.050.000;-
+385;1;It08;Progetto M40 mod. 65;Progetto 65;X;Medium;Tech Tree;6.100.000;250.200;-;-;-;3.050.000;-
+18049;70;It21;Lion;Lion;X;Medium;Collector;-;-;15.000;-;15.000;-;7.500
+10113;39;It20;Carro da Combattimento 45t;Carro 45t;X;Medium;Collector;-;-;15.000;-;15.000;-;7.500
+17793;69;It115;Rinoceronte;Rinoceronte;X;Heavy;Tech Tree;6.100.000;275.000;-;-;-;3.050.000;-
+13185;51;Cz17;Vz. 55;Vz. 55;X;Heavy;Tech Tree;6.500.000;270.000;-;-;-;3.250.000;-
+7297;28;Pl15;60TP Lewandowskiego;60TP Lewandowskiego;X;Heavy;Tech Tree;6.100.000;265.000;-;-;-;3.050.000;-
+4481;17;S16;Kranvagn;Kranvagn;X;Heavy;Tech Tree;6.100.000;212.500;-;-;-;3.050.000;-
+20097;78;It35;Felice;Felice;X;Heavy;Collector;-;-;15.000;-;15.000;.;7.500
+12161;47;S31;Strv K;Strv K;X;Heavy;Collector;-;-;15.000;-;15.000;-;7.500
+19585;76;Pl29;NC 70 Błyskawica;NC 70 Błyskawica;X;TD;Tech Tree;6.100.000;320.000;-;-;-;3.050.000;-
+10369;40;It21;Controcarro 3 Minotauro;Minotauro;X;TD;Tech Tree;6.500.000;292.000;-;-;-;3.250.000;-
+15233;59;Pl22;CS-59;CS-59;IX;Medium;Tech Tree;3.325.000;170.000;-;-;-;1.662.500;-
+5761;22;Cz02;Škoda T 50;Škoda T 50;IX;Medium;Tech Tree;3.480.000;162.000;-;-;-;1.740.000;-
+641;2;It12;Prototipo Standard B;Standard B;IX;Medium;Tech Tree;3.480.000;162.350;-;-;-;1.740.000;-
+17281;67;It119;Progetto C50 mod. 66;Progetto C50 mod. 66;IX;Heavy;Tech Tree;3.500.000;172.900;-;-;-;1.750.000;-
+12929;50;Cz16;TNH T Vz. 51;TNH T Vz. 51;IX;Heavy;Tech Tree;3.570.000;162.000;-;-;-;1.785.000;-
+7553;29;Pl05;50TP Tyszkiewicza;50TP Tyszkiewicza;IX;Heavy;Tech Tree;3.561.000;165.000;-;-;-;1.780.500;-
+4225;16;S17;Emil II;Emil II;IX;Heavy;Tech Tree;3.600.000;161.950;-;-;-;1.800.000;-
+3201;12;Pl08;50TP prototyp;50TP prototyp;IX;Heavy;Collector;-;-;10.000;-;10.000;-;5.000
+19329;75;Pl28;SDP 60 Gonkiewicza;SDP 60 Gonkiewicza;IX;TD;Tech Tree;3.510.000;210.000;-;-;-;1.755.000;-
+10625;41;It19;Controcarro 1 Mk. 2;CC 1 Mk. 2;IX;TD;Tech Tree;3.480.000;193.000;-;-;-;1.740.000;-
+15489;60;Pl23;CS-53;CS-53;VIII;Medium;Tech Tree;2.100.000;120.000;-;-;-;1.050.000;-
+6017;23;Cz07;TVP VTU Koncept;TVP VTU;VIII;Medium;Tech Tree;2.410.000;86.750;-;-;-;1.205.000;-
+897;3;It14;P.44 Pantera;P.44 Pantera;VIII;Medium;Tech Tree;2.410.000;87.200;-;-;-;1.205.000;-
+6785;26;Cz13;Škoda T 27;Škoda T 27;VIII;Medium;Premium;-;-;7.500;3.000.000;-;1.500.000;-
+2945;11;It13;Progetto M35 mod. 46;Progetto 46;VIII;Medium;Premium;-;-;7.500;3.000.000;-;1.500.000;-
+14721;57;S23;Strv 81;Strv 81;VIII;Medium;Collector;-;-;7.500;-;7.500;-;3.750
+8577;33;S26;Lansen C;Lansen C;VIII;Medium;Collector;-;-;7.500;-;7.500;-;3.750
+17025;66;It117;Progetto CC55 mod. 54;Progetto CC55 mod. 54;VIII;Heavy;Tech Tree;2.600.000;108.500;-;-;-;1.300.000;-
+13697;53;Cz18;TNH 105/1000;TNH 105/1000;VIII;Heavy;Tech Tree;2.580.000;108.000;-;-;-;1.290.000;-
+7809;30;Pl13;53TP Markowskiego;53TP Markowskiego;VIII;Heavy;Tech Tree;2.567.800;110.000;-;-;-;1.283.900;-
+3457;13;S18;Emil I;Emil I;VIII;Heavy;Tech Tree;2.552.000;87.350;-;-;-;1.276.000;-
+9089;35;Cz14;Škoda T 56;Škoda T 56;VIII;Heavy;Premium;-;-;7.500;3.000.000;-;1.500.000;-
+12673;49;S32;Bofors Tornvagn;Tornvagn;VIII;Heavy;Collector;-;-;7.500;-;7.500;-;3.750
+12417;48;It22;Bisonte C45;Bisonte C45;VIII;Heavy;Collector;-;-;7.500;-;7.500;-;3.750
+4737;18;S25;EMIL 1951;EMIL 1951;VIII;Heavy;Collector;-;-;7.500;-;7.500;-;3.750
+19073;74;Pl30;SDP 58 Kilana;SDP 58 Kilana;VIII;TD;Tech Tree;2.560.000;120.000;-;-;-;1.280.000;-
+10881;42;It18;Semovente Controcarro mod. 1964;SMV CC-64;VIII;TD;Tech Tree;2.410.000;118.000;-;-;-;1.205.000;-
+19841;77;Pl27;SDP wz 66 Grom;SDP wz 66 Grom;VIII;TD;Collector;-;-;7.500;-;7.500;-;3.750
+16769;65;It30;SMV CC-64 Vipera;SMV Vipera;VIII;TD;Collector;-;-;7.500;-;7.500;-;3.750
+16513;64;Cz20;ShPTK-TVP 100;ShPTK-TVP 100;VIII;TD;Collector;-;-;7.500;-;7.500;-;3.750
+15745;61;Pl20;CS-44;CS-44;VII;Medium;Tech Tree;1.300.000;60.000;-;-;-;650.000;-
+6273;24;Cz05;T-34/100;Konštrukta T-34/100;VII;Medium;Tech Tree;1.420.000;53.650;-;-;-;710.000;-
+3969;15;S13;Leo;Leo;VII;Medium;Tech Tree;1.350.000;53.550;-;-;-;675.000;-
+1153;4;It09;P.43 ter;P.43 ter;VII;Medium;Tech Tree;1.420.000;53.370;-;-;-;710.000;-
+9601;37;Pl119;CS-52 LIS;CS-52 LIS;VII;Medium;Collector;-;-;5.000;-;5.000;-;2.500
+9345;36;S13;Svear;Svear;VII;Medium;Collector;-;-;2.500;-;5.000;-;2.500
+17537;68;It116;Carro d'assalto P.88;Carro d'assalto P.88;VII;Heavy;Tech Tree;1.450.000;60.500;-;-;-;725.000;-
+13953;54;Cz19;Vz. 44-1;Vz. 44-1;VII;Heavy;Tech Tree;1.490.000;61.800;-;-;-;745.000;-
+8321;32;Pl11;45TP Habicha;45TP Habicha;VII;Heavy;Tech Tree;1.430.000;62.150;-;-;-;715.000;-
+9857;38;Cz15;Škoda T 45;Škoda T 45;VII;Heavy;Premium;-;-;5.000;2.000.000;-;1.000.000;-
+18817;73;Pl31;SDP 57 Gowika;SDP 57 Gowika;VII;TD;Tech Tree;1.400.000;80.000;-;-;-;700.000;-
+11137;43;It17;Semovente Controcarro mod. 1956;SMV CC-56;VII;TD;Tech Tree;1.420.000;65.500;-;-;-;710.000;-
+16001;62;Pl18;B.U.G.I.;B.U.G.I.;VI;Medium;Tech Tree;900.000;24.000;-;-;-;450.000;-
+6529;25;Cz08;Škoda T 25;Škoda T 25;VI;Medium;Tech Tree;920.000;24.500;-;-;-;460.000;-
+3713;14;S07;Strv 74;Strv 74;VI;Medium;Tech Tree;930.500;24.350;-;-;-;465.250;-
+1409;5;It10;P.43 bis;P.43 bis;VI;Medium;Tech Tree;920.000;24.500;-;-;-;460.000;-
+13441;52;Cz08;Aeonix;Aeonix;VI;Medium;Collector;-;-;500;-;1.000;-;500
+11905;46;It10;Shadowhunter;Shadowhunter;VI;Medium;Collector;-;-;500;-;1.000;-;500
+8833;34;Cz08;Spark;Spark;VI;Medium;Collector;-;-;500;-;1.000;-;500
+7041;27;S07;Turbo;Turbo;VI;Medium;Collector;-;-;500;-;1.000;-;500
+5249;20;Pl03;Pudel;Pudel;VI;Medium;Collector;-;-;3.500;-;3.500;-;1.750
+4993;19;It10;P.43/06 anniversario;P.43/06 ann.;VI;Medium;Collector;-;-;2.500;-;2.500;-;1.250
+14209;55;Cz29;Škoda P-JS;Škoda P-JS;VI;Heavy;Tech Tree;900.000;24.500;-;-;-;450.000;-
+8065;31;Pl10;40TP Habicha;40TP Habicha;VI;Heavy;Tech Tree;900.000;26.480;-;-;-;450.000;-
+16257;63;Cz29;Outcast;Outcast;VI;Heavy;Collector;-;-;500;-;1.000;-;500
+18561;72;Pl32;SDP 44 Burza;SDP 44 Burza;VI;TD;Tech Tree;910.000;25.000;-;-;-;455.000;-
+11393;44;It16;Semovente M43 Bassotto;Bassotto;VI;TD;Tech Tree;920.000;25.000;-;-;-;460.000;-
+14465;56;Pl17;DS PZInż;DS PZInż;V;Medium;Tech Tree;450.000;12.000;-;-;-;225.000;-
+1921;7;S02;Strv m/42;Strv m/42;V;Medium;Tech Tree;400.000;8.000;-;-;-;200.000;-
+18305;71;Pl33;SDP 40 Zadymka;SDP 40 Zadymka;V;TD;Tech Tree;400.000;10.000;-;-;-;200.000;-
+11649;45;It15;Semovente M41;Semovente M41;V;TD;Tech Tree;400.000;8.000;-;-;-;200.000;-
+1665;6;S04;Lago;Lago;IV;Medium;Tech Tree;85.000;2.500;-;-;-;42.500;-
+2177;8;Pl07;14TP;14TP;III;Light;Tech Tree;6.000;700;-;-;-;3.000;-
+2433;9;Pl06;10TP;10TP;II;Light;Tech Tree;1.200;210;-;-;-;600;-
+2689;10;F01;Vickers Mk. F;Vickers Mk. F;I;Light;Tech Tree;0;0;-;-;-;0;-
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;

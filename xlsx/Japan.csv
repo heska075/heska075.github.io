@@ -1,0 +1,109 @@
+﻿DEV ID;National ID;Letter ID;Full Name;Short Name;Tier;Class;Type;Price (Credits);Price (XP);Price (Gold);Restoration Price (Credits);Restorarion Price (Gold);Sale Price (Credits);Sale Price (Gold)
+3681;14;J16;STB-1;STB-1;X;Medium;Tech Tree;6.100.000;318.750;-;-;-;3.050.000;-
+6753;26;J25;Type 71;Type 71;X;Heavy;Tech Tree;6.100.000;240.000;-;-;-;3.050.000;-
+8033;31;J20;Type 5 Heavy;Type 5 Heavy;X;Heavy;Collector;-;-;15.000;-;15.000;-;7.500
+3937;15;J20;Ho-Ri Type III;Ho-Ri;X;TD;Tech Tree;6.100.000;271.000;-;-;-;3.050.000;-
+3425;13;J14;Type 61;Type 61;IX;Medium;Tech Tree;3.600.000;169.000;-;-;-;1.800.000;-
+6497;25;J26;Type 68;Type 68;IX;Heavy;Tech Tree;3.640.000;154.000;-;-;-;1.820.000;-
+4193;16;J21;Ho-Ri Type II;Ho-Ri T.II;IX;TD;Tech Tree;3.450.000;160.000;-;-;-;1.725.000;-
+2657;10;J13;STA-1;STA-1;VIII;Medium;Tech Tree;2.550.000;111.000;-;-;-;1.275.000;-
+6241;24;J27;Chi-Se;Chi-Se;VIII;Heavy;Tech Tree;2.610.000;80.000;-;-;-;1.305.000;-
+7777;30;J36;Type 63;Type 63;VIII;Heavy;Collector;-;-;7.500;-;7.500;-;3.750
+7009;27;J24;Type 57;Type 57;VIII;Heavy;Collector;-;-;7.500;-;7.500;-;3.750
+4961;19;J22;Ho-Ri Type I;Ho-Ri T.I;VIII;TD;Tech Tree;2.570.000;76.950;-;-;-;1.285.000;-
+8289;32;J38;Type 95 Ji-Ro;Type 95 Ji-Ro;VIII;TD;Collector;-;-;7.500;-;7.500;-;3.750
+7521;29;J31;Type 5 Ka-Ri;Type 5 Ka-Ri;VIII;TD;Collector;-;-;7.500;-;7.500;-;3.750
+1121;4;J11;Type 5 Chi-Ri;Chi-Ri;VII;Medium;Tech Tree;1.440.000;62.130;-;-;-;720.000;-
+5985;23;J28;Ju-To;Ju-To;VII;Heavy;Tech Tree;1.450.300;45.000;-;-;-;725.150;-
+4449;17;-;IS-2 Pravda SP;IS-2 Pravda SP;VII;Heavy;Collector;-;-;1.200;-;2.400;-;1.200
+5217;20;J23;Chi-To SPG;Chi-To SPG;VII;TD;Tech Tree;1.345.000;43.400;-;-;-;672.500;-
+1889;7;J10;Type 4 Chi-To;Chi-To;VI;Medium;Tech Tree;940.000;25.000;-;-;-;470.000;-
+4705;18;-;Firefly Saunders SP;Firefly Saunders SP;VI;Medium;Collector;-;-;250;-;500;-;250
+5729;22;J29;Ju-Nu;Ju-Nu;VI;Heavy;Tech Tree;885.000;25.000;-;-;-;442.500;-
+63585;248;G04;Tiger Kuromorimine SP;Tiger Kuromorimine SP;VI;Heavy;Collector;-;-;1.200;-;2.400;-;1.200
+7265;28;J29;Ferrum;Ferrum;VI;Heavy;Collector;-;-;500;-;1.000;-;500
+1377;5;J08;Type 3 Chi-Nu;Chi-Nu;V;Medium;Tech Tree;400.000;7.000;-;-;-;200.000;-
+65377;255;J12;Type 3 Chi-Nu Kai;Chi-Nu Kai;V;Medium;Premium;-;-;2.100;840.000;-;420.000;-
+63841;249;G81;Panzer IV Ankou Special;Pz. IV Ankou SP;V;Medium;Collector;-;-;1.200;-;2.400;-;1.200
+5473;21;J30;Mitsu 108;Mitsu 108;V;Heavy;Tech Tree;400.000;7.000;-;-;-;200.000;-
+2913;11;J06;Type 5 Ke-Ho;Ke-Ho;IV;Light;Collector;-;-;100;-;200;-;100
+1633;6;J09;Type 1 Chi-He;Chi-He;IV;Medium;Tech Tree;85.000;2.500;-;-;-;42.500;-
+52065;203;G09;Hetzer Kamesan SP;Hetzer Kamesan SP;IV;TD;Collector;-;-;1.200;-;2.400;-;1.200
+51809;202;J05;Type 98 Ke-Ni Otsu;Ke-Ni Otsu;III;Light;Premium;-;-;950;380.000;-;190.000;-
+2401;9;J04;Type 98 Ke-Ni;Ke-Ni;III;Light;Collector;-;-;50;-;100;-;50
+2145;8;J07;Type 97 Chi-Ha;Chi-Ha;III;Medium;Tech Tree;6.000;700;-;-;-;3.000;-
+353;1;J15;Chi-Ni;Chi-Ni;II;Medium;Tech Tree;1.200;210;-;-;-;600;-
+865;3;J03;Type 95 Ha-Go;Ha-Go;I;Light;Tech Tree;0;560;-;-;-;-;-
+609;2;J01;Renault Otsu;R. Otsu;I;Light;Tech Tree;0;0;-;-;-;0;-
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;

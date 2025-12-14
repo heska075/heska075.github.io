@@ -1,0 +1,104 @@
+﻿DEV ID;National ID;Letter ID;Full Name;Short Name;Tier;Class;Type;Price (Credits);Price (XP);Price (Gold);Restoration Price (Credits);Restorarion Price (Gold);Sale Price (Credits);Sale Price (Gold)
+24321;95;R132;T-100 LT;T-100 LT;X;Light;Tech Tree;6.100.000;280.000;-;-;-;3.050.000;-
+16897;66;R97;Object 140;Obj. 140;X;Medium;Tech Tree;6.100.000;280.000;-;-;-;3.050.000;-
+13825;54;R87;T-62A;T-62A;X;Medium;Tech Tree;6.100.000;275.000;-;-;-;3.050.000;-
+19969;78;R120;T-22 medium;T-22 medium;X;Medium;Collector;-;-;30.000;-;15.000;-;7.500
+15617;61;R95;Object 907;Obj. 907;X;Medium;Collector;-;-;15.000;-;15.000;-;7.500
+7169;28;R45;IS-7;IS-7;X;Heavy;Tech Tree;6.100.000;250.000;-;-;-;3.050.000;-
+6145;24;R90;IS-4;IS-4;X;Heavy;Tech Tree;6.100.000;236.250;-;-;-;3.050.000;-
+25857;101;R119;Object 777 Version II;Obj. 777 II;X;Heavy;Collector;-;-;15.000;-;15.000;-;7.500
+22273;87;R110;Object 260;Obj. 260;X;Heavy;Collector;-;-;15.000;-;15.000;-;7.500
+14337;56;R93;Object 263;Obj. 263;X;TD;Tech Tree;6.100.000;275.000;-;-;-;3.050.000;-
+13569;53;R88;Object 268;Obj. 268;X;TD;Tech Tree;6.100.000;350.000;-;-;-;3.050.000;-
+24577;96;R149;Object 268 Version 4;Object 268/4;X;TD;Collector;-;-;15.000;-;15.000;-;7.500
+23809;93;-;Object 84;Object 84;IX;Light;Tech Tree;3.450.000;192.200;-;-;-;1.725.000;-
+7937;31;R40;T-54;T-54;IX;Medium;Tech Tree;3.450.000;192.200;-;-;-;1.725.000;-
+11521;45;R81;IS-8;IS-8;IX;Heavy;Tech Tree;3.531.000;164.700;-;-;-;1.765.500;-
+10753;42;R63;ST-I;ST-I;IX;Heavy;Tech Tree;3.561.000;166.000;-;-;-;1.780.500;-
+26113;102;R181;Object 452K;Object 452K;IX;Heavy;Collector;-;-;10.000;-;10.000;-;5.000
+25089;98;R172;Object 752;Object 752;IX;Heavy;Collector;-;-;10.000;-;10.000;-;5.000
+12545;49;-;K-91;K-91;IX;Heavy;Collector;-;-;10.000;-;10.000;-;5.000
+12033;47;R75;SU-122-54;SU-122-54;IX;TD;Tech Tree;3.510.000;150.000;-;-;-;1.755.000;-
+8193;32;R53;Object 704;Obj. 704;IX;TD;Tech Tree;3.660.000;176.500;-;-;-;1.830.000;-
+18177;71;R109;T-54 ltwt.;T-54 ltwt.;VIII;Light;Tech Tree;2.410.000;96.300;-;-;-;1.205.000;-
+22529;88;R158;LT-432;LT-432;VIII;Light;Premium;-;-;7.000;2.800.000;-;1.400.000;-
+4353;17;R20;T-44;T-44;VIII;Medium;Tech Tree;2.390.000;93.653;-;-;-;1.195.000;-
+62977;246;R127;T-44-100;T-44-100;VIII;Medium;Premium;-;-;7.200;2.880.000;-;1.440.000;-
+59905;234;R112;T-54 first prototype;T-54 mod. 1;VIII;Medium;Premium;-;-;7.300;2.920.000;-;1.460.000;-
+25345;99;R180;Object 274a;Object 274a;VIII;Medium;Premium;-;-;7.300;2.920.000;-;1.460.000;-
+21761;85;R146;STG;STG;VIII;Medium;Premium;-;-;7.300;2.920.000;-;1.460.000;-
+26881;105;R187;Object 590;Obj. 590;VIII;Medium;Collector;-;-;7.500;-;7.500;-;3.750
+26369;103;R194;ST-62 Version 2;ST-62 Ver. 2;VIII;Medium;Collector;-;-;7.500;-;7.500;-;3.750
+11009;43;R73;KV-4;KV-4;VIII;Heavy;Tech Tree;2.430.000;72.000;-;-;-;1.215.000;-
+5377;21;R19;IS-3;IS-3;VIII;Heavy;Tech Tree;2.568.500;77.000;-;-;-;1.284.250;-
+64769;253;R61;IS-6 Fearless;IS-6 Fearless;VIII;Heavy;Premium;-;-;7.600;3.040.000;-;1.520.000;-
+58881;230;R113;IS-5 (Object 730);IS-5;VIII;Heavy;Premium;-;-;1.500;600.000;-;300.000;-
+53249;208;R54;KV-5;KV-5;VIII;Heavy;Premium;-;-;7.550;3.020.000;-;1.510.000;-
+9217;36;R61;IS-6;IS-6;VIII;Heavy;Premium;-;-;7.600;3.040.000;-;1.520.000;-
+60417;236;R115;IS-3 Defender;IS-3 Defender;VIII;Heavy;Collector;-;-;7.500;-;7.500;-;3.750
+60161;235;R139;IS-2Sh;IS-2Sh;VIII;Heavy;Collector;-;-;7.500;-;7.500;-;3.750
+27137;106;R192;K-2;K-2;VIII;Heavy;Collector;-;-;7.500;-;7.500;-;3.750
+20993;82;R63;T-2020;T-2020;VIII;Heavy;Collector;-;-;7.500;-;7.500;-;3.750
+20481;80;R134;Object 252U;Obj. 252U;VIII;Heavy;Collector;-;-;7.500;-;7.500;-;3.750
+9985;39;R58;SU-101;SU-101;VIII;TD;Tech Tree;2.560.000;91.000;-;-;-;1.280.000;-
+7425;29;R47;ISU-152;ISU-152;VIII;TD;Tech Tree;2.520.000;75.000;-;-;-;1.260.000;-
+18945;74;R111;ISU-130;ISU-130;VIII;TD;Premium;-;-;7.200;2.880.000;-;1.440.000;-
+27393;107;R217;Object Kust;Obj. Kust;VIII;TD;Collector;-;-;7.500;-;7.500;-;3.750
+20737;81;R159;SU-130PM;SU-130PM;VIII;TD;Collector;-;-;7.500;-;7.500;-;3.750
+24065;94;R131;LTG;LTG;VII;Light;Tech Tree;1.380.000;59.150;-;-;-;690.000;-
+18433;72;R107;LTTB;LTTB;VII;Light;Tech Tree;1.380.000;59.150;-;-;-;690.000;-
+6657;26;R23;T-43;T-43;VII;Medium;Tech Tree;1.355.000;62.540;-;-;-;677.500;-
+64001;250;R07;T-34-85 Rudy;T-34-85 Rudy;VII;Medium;Collector;-;-;5.000;-;5.000;-;2.500
+26625;104;-;T-34-85 Breakthrough;T-34-85 Breakthrough;VII;Medium;Collector;-;-;500;-;1.000;-;500
+21505;84;R98;T-44-85;T-44-85;VII;Medium;Collector;-;-;5.000;-;5.000;-;2.500
+8961;35;R46;KV-13;KV-13;VII;Medium;Collector;-;-;1.500;-;3.000;-;1.500
+5889;23;R39;KV-3;KV-3;VII;Heavy;Tech Tree;1.390.000;61.000;-;-;-;695.000;-
+513;2;R01;IS;IS;VII;Heavy;Tech Tree;1.424.000;58.390;-;-;-;712.000;-
+25601;100;R175;IS-2 shielded;IS-2 shielded;VII;Heavy;Premium;-;-;5.000;2.000.000;-;1.000.000;-
+59137;231;R71;IS-2 (1945);IS-2 (1945);VII;Heavy;Collector;-;-;5.000;-;5.000;-;2.500
+10241;40;R74;SU-100M1;SU-100M1;VII;TD;Tech Tree;1.365.000;48.200;-;-;-;682.500;-
+2305;9;R18;SU-152;SU-152;VII;TD;Tech Tree;1.305.000;49.500;-;-;-;652.500;-
+59649;233;R116;ISU-122S;ISU-122S;VII;TD;Premium;-;-;4.900;1.960.000;-;980.000;-
+55297;216;R89;SU-122-44;SU-122-44;VII;TD;Premium;-;-;5.100;2.040.000;-;1.020.000;-
+16641;65;R101;MT-25;MT-25;VI;Light;Tech Tree;880.000;31.000;-;-;-;440.000;-
+2561;10;R07;T-34-85;T-34-85;VI;Medium;Tech Tree;915.000;29.000;-;-;-;457.500;-
+64257;251;R07;T-34-85 Victory;T-34-85 Victory;VI;Medium;Premium;-;-;3.500;1.400.000;-;700.000;-
+19713;77;R140;Loza's M4-A2 Sherman;Loza's Sherman;VI;Medium;Premium;-;-;3.100;1.240.000;-;620.000;-
+22785;89;-;Triumphant;Triumphant;VI;Medium;Collector;-;-;500;-;1.000;-;500
+22017;86;-;T-34-85;T-34-85;VI;Medium;Collector;-;-;10;-;20;-;10
+10497;41;R77;KV-2;KV-2;VI;Heavy;Tech Tree;920.000;30.000;-;-;-;460.000;-
+2817;11;R13;KV-1S;KV-1S;VI;Heavy;Tech Tree;900.000;30.000;-;-;-;450.000;-
+23297;91;R160;Object 244;Object 244;VI;Heavy;Collector;-;-;3.500;-;3.500;-;1.750
+21249;83;-;Thunder;Thunder;VI;Heavy;Collector;-;-;500;-;1.000;-;500
+11265;44;R72;T-150;T-150;VI;Heavy;Collector;-;-;500;-;1.000;-;500
+3585;14;R17;SU-100;SU-100;VI;TD;Tech Tree;908.900;25.000;-;-;-;454.450;-
+54785;214;R49;SU-100Y;SU-100Y;VI;TD;Collector;-;-;3.500;-;3.500;-;1.750
+1;0;R04;T-34;T-34;V;Medium;Tech Tree;400.000;11.000;-;-;-;200.000;-
+51457;201;R32;Matilda IV;Matilda IV;V;Medium;Premium;-;-;2.400;960.000;-;480.000;-
+23041;90;R154;T-34 shielded;T-34 shielded;V;Medium;Premium;-;-;500;200.000;-;100.000;-
+11777;46;R80;KV-1;KV-1;V;Heavy;Tech Tree;400.000;10.000;-;-;-;200.000;-
+51713;202;R33;Churchill III;Churchill III;V;Heavy;Premium;-;-;2.400;960.000;-;480.000;-
+51201;200;R38;KV-220 Beta-Test;KV-220 T;V;Heavy;Collector;-;-;2.500;-;5.000;-;2.500
+257;1;R02;SU-85;SU-85;V;TD;Tech Tree;400.000;7.000;-;-;-;200.000;-
+53761;210;R78;SU-85I;SU-85I;V;TD;Premium;-;-;2.500;1.000.000;-;500.000;-
+2049;8;R12;A-20;A-20;IV;Light;Tech Tree;85.000;2.500;-;-;-;42.500;-
+52481;205;R31;Valentine II;Valentine II;IV;Light;Collector;-;-;1.500;-;3.000;-;1.500
+52993;207;R68;A-32;A-32;IV;Medium;Collector;-;-;1.450;-;2.900;-;1.450
+1537;6;R06;T-28 mod. 1940;T-28 mod. 1940;IV;Medium;Collector;-;-;100;-;200;-;100
+6913;27;R25;SU-85B;SU-85B;IV;TD;Tech Tree;85.000;2.500;-;-;-;42.500;-
+769;3;R03;BT-7;BT-7;III;Light;Tech Tree;6.000;700;-;-;-;3.000;-
+60929;238;R105;BT-7 artillery;BT-7 art.;III;Light;Collector;-;-;850;-;1.700;-;850
+56577;221;R86;LTP;LTP;III;Light;Collector;-;-;850;-;1.700;-;850
+53505;209;R56;T-127;T-127;III;Light;Collector;-;-;950;-;1.900;-;950
+52737;206;R67;M3 Light;M3 Light;III;Light;Collector;-;-;850;-;1.700;-;850
+52225;204;R34;BT-SV;BT-SV;III;Light;Collector;-;-;1.000;-;2.000;-;1.000
+18689;73;R43;T-70/57;T-70/57;III;Light;Collector;-;-;850;-;1.700;-;850
+3073;12;R22;T-46;T-46;III;Light;Collector;-;-;50;-;100;-;50
+54273;212;R50;SU-76I;SU-76I;III;TD;Collector;-;-;1.000;-;2.000;-;1.000
+6401;25;R24;SU-76;SU-76;III;TD;Collector;-;-;50;-;100;-;50
+1025;4;R08;BT-2;BT-2;II;Light;Tech Tree;1.200;210;-;-;-;600;-
+54529;213;R84;Tetrarch;Tetrarch;II;Light;Collector;-;-;700;-;1.400;-;700
+23553;92;-;MS-1;MS-1;II;Light;Collector;-;-;25;-;50;-;25
+5121;20;R10;AT-1;AT-1;II;TD;Collector;-;-;25;-;50;-;25
+4609;18;R09;T-26;T-26;I;Light;Tech Tree;0;600;-;-;-;0;-
+3329;13;R11;MS-1 mod. 1;MS-1 mod. 1;I;Light;Tech Tree;0;0;-;-;-;0;-

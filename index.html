@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Tankopedia</title>
+        <link rel="stylesheet" href="css/style.css" />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+        </style>
+    </head>
+    <body>
+        <h1>World of Tanks Blitz - Tankopedia</h1>
+
+        <div id="tabs"></div>
+
+        <div id="holidaySeperator"></div>
+
+        <div id="tankGrid"></div>
+
+        <div id="pricePopup" class="pricePopup hidden">
+            <div class="popupWindow">
+                <button class="closeBtn">✕</button>
+
+                <h2 id="popupTitle"></h2>
+
+                <img id="popupTankImage" class="popup-tank-image" draggable="false">
+
+                <table class="priceTable">
+                    <tbody id="priceTableBody"></tbody>
+                </table>
+
+                <table class="priceTable camoTable hidden">
+                    <tbody id="camoTableBody"></tbody>
+                </table>
+            </div>
+        </div>
+
+        <script src="js/script.js" defer></script>
+        <script src="js/click_data.js" defer></script>
+    </body>
+</html>

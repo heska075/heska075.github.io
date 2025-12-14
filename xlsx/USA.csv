@@ -1,0 +1,107 @@
+﻿DEV ID;National ID;Letter ID;Full Name;Short Name;Tier;Class;Type;Price (Credits);Price (XP);Price (Gold);Restoration Price (Credits);Restorarion Price (Gold);Sale Price (Credits);Sale Price (Gold)
+20257;79;A116;XM551 Sheridan;Sheridan;X;Light;Tech Tree;6.100.000;250.000;-;-;-;3.050.000;-
+21793;85;A116;XM551 Sheridan Missile;Sheridan Missile;X;Light;Collector;-;-;10;-;20;-;10
+14113;55;A84;M48 Patton;M48 Patton;X;Medium;Tech Tree;6.100.000;215.000;-;-;-;3.050.000;-
+15905;62;A92;M60;M60;X;Medium;Collector;-;-;15.000;-;15.000;-;7.500
+22817;89;-;M-VI-Yoh;M-VI-Yoh;X;Heavy;Tech Tree;6.100.000;255.000;-;-;-;3.050.000;-
+14881;58;A67;T57 Heavy Tank;T57 Heavy;X;Heavy;Tech Tree;6.100.000;250.000;-;-;-;3.050.000;-
+10785;42;A69;T110E5;T110E5;X;Heavy;Tech Tree;6.100.000;240.000;-;-;-;3.050.000;-
+24609;96;A128;Concept 1B;Concept 1B;X;Heavy;Collector;-;-;15.000;-;15.000;-;7.500
+18977;74;A95;T95E6;T95E6;X;Heavy;Collector;-;-;15.000;-;15.000;-;7.500
+13857;54;A85;T110E3;T110E3;X;TD;Tech Tree;6.100.000;290.000;-;-;-;3.050.000;-
+13089;51;A83;T110E4;T110E4;X;TD;Tech Tree;6.100.000;263.750;-;-;-;3.050.000;-
+28705;112;A153;XM66F;XM66F;X;TD;Collector;-;-;15.000;-;15.000;-;7.500
+20001;78;A99;T92E1;T92E1;IX;Light;Tech Tree;3.600.000;170.000;-;-;-;1.800.000;-
+29473;115;A175;ATAC;ATAC;IX;Light;Collector;-;-;10.000;-;10.000;-;5.000
+15393;60;A89;T54E1;T54E1;IX;Medium;Tech Tree;3.600.000;170.000;-;-;-;1.800.000;-
+8993;35;A63;M46 Patton;M46 Patton;IX;Medium;Tech Tree;3.450.000;174.000;-;-;-;1.725.000;-
+25121;98;-;M46 Jaguar;M46 Jaguar;IX;Medium;Collector;-;-;10.000;-;10.000;-;5.000
+23073;90;-;M-V-Yoh;M-V-Yoh;IX;Heavy;Tech Tree;3.640.000;172.000;-;-;-;1.820.000;-
+9505;37;A66;M103;M103;IX;Heavy;Tech Tree;3.640.000;168.500;-;-;-;1.820.000;-
+29217;114;A150;MBT-B;MBT-B;IX;Heavy;Premium;-;-;10.000;4.000.000;-;2.000.000;-
+27425;107;A146;TL-7-120;TL-7-120;IX;Heavy;Collector;-;-;10.000;-;10.000;-;5.000
+22305;87;A125;AE Phase I;AE Phase I;IX;Heavy;Collector;-;-;15.000;-;15.000;-;7.500
+8737;34;A40;T95;T95;IX;TD;Tech Tree;3.500.000;165.000;-;-;-;1.750.000;-
+2593;10;A14;T30;T30;IX;TD;Tech Tree;3.550.000;145.000;-;-;-;1.775.000;-
+18209;71;A100;T49;T49;VIII;Light;Tech Tree;2.380.000;101.200;-;-;-;1.190.000;-
+27937;109;-;T49 Fearless;T49 Fearless;VIII;Light;Premium;-;-;7.600;3.040.000;-;1.520.000;-
+14625;57;A90;T69;T69;VIII;Medium;Tech Tree;2.403.000;118.000;-;-;-;1.201.500;-
+5921;23;A35;M26 Pershing;Pershing;VIII;Medium;Tech Tree;2.403.000;98.100;-;-;-;1.201.500;-
+26657;104;A140;ASTRON Rex 105 mm;ASTRON Rex;VIII;Medium;Premium;-;-;7.500;3.000.000;-;1.500.000;-
+13345;52;A80;T26E4 SuperPershing;T26E4;VIII;Medium;Premium;-;-;7.200;2.880.000;-;1.440.000;-
+12065;47;A81;T95E2;T95E2;VIII;Medium;Premium;-;-;7.200;2.880.000;-;1.440.000;-
+20769;81;A111;T25 Pilot Number 1;T25 Pilot 1;VIII;Medium;Collector;-;-;7.500;-;7.500;-;3.750
+23329;91;-;M-III-Yoh;M-III-Yoh;VIII;Heavy;Tech Tree;2.610.000;112.000;-;-;-;1.305.000;-
+4385;17;A12;T32;T32;VIII;Heavy;Tech Tree;2.610.000;100.000;-;-;-;1.305.000;-
+64801;253;A13;T34 Independence;T34 (1776);VIII;Heavy;Premium;-;-;7.600;3.040.000;.;1.520.000;-
+53025;207;A45;M6A2E1 EXP;M6A2E1 EXP;VIII;Heavy;Premium;-;-;7.500;3.000.000;-;1.500.000;-
+24865;97;-;Scepter;Scepter;VIII;Heavy;Premium;-;-;7.500;3.000.000;-;1.500.000;-
+19233;75;A115;Chrysler K;Chrysler K;VIII;Heavy;Premium;-;-;7.200;2.880.000;-;1.440.000;-
+2849;11;A13;T34;T34;VIII;Heavy;Premium;-;-;7.600;3.040.000;-;1.520.000;-
+25633;100;A141;M-IV-Y;M-IV-Y;VIII;Heavy;Collector;-;-;7.500;-;7.500;-;3.750
+25377;99;A132;T77;T77;VIII;Heavy;Collector;-;-;7.500;-;7.500;-;3.750
+20513;80;A124;T54E2;T54E2;VIII;Heavy;Collector;-;-;7.500;-;7.500;-;3.750
+19745;77;A117;T26E5;T26E5;VIII;Heavy;Collector;-;-;7.500;-;7.500;-;3.750
+11297;44;A68;T28 Prototype;T28 Prot.;VIII;TD;Tech Tree;2.650.000;102.000;-;-;-;1.325.000;-
+8225;32;A39;T28;T28;VIII;TD;Tech Tree;2.580.000;71.000;-;-;-;1.290.000;-
+22561;88;A122;TS-5;TS-5;VIII;TD;Premium;-;-;7.500;3.000.000;-;1.500.000;-
+19489;76;A68;T28 Defender;T28 Defender;VIII;TD;Premium;-;-;7.200;2.880.000;-;1.440.000;-
+28193;110;A151;TS-60;TS-60;VIII;TD;Collector;-;-;7.500;-;7.500;-;3.750
+17953;70;A97;M41 Walker Bulldog;M41 Bulldog;VII;Light;Tech Tree;1.370.000;56.300;-;-;-;685.000;-
+15649;61;A91;T71;T71;VII;Light;Tech Tree;1.400.000;54.500;-;-;-;700.000;-
+6689;26;-;T49 ATM;T49 A;VII;Light;Premium;-;-;1;400;-;200;-
+1569;6;A07;T20;T20;VII;Medium;Tech Tree;1.340.000;65.490;-;-;-;670.000;-
+21025;82;A121;T26E3 Eagle 7;T26E3 Eagle 7;VII;Medium;Premium;-;-;5.000;2.000.000;-;1.000.000;-
+11809;46;A86;T23E3;T23E3;VII;Medium;Premium;-;-;4.900;1.960.000;-;980.000;-
+28961;113;-;Sherman Easy 8;Sherman Easy 8;VII;Medium;Collector;-;-;500;-;1.000;-;500
+28449;111;A136;T42;T42;VII;Medium;Collector;-;-;5.000;-;5.000;-;2.500
+23585;92;-;M-VII-Yoh;M-VII-Yoh;VII;Heavy;Tech Tree;1.450.300;66.700;-;-;-;725.150;-
+3873;15;A11;T29;T29;VII;Heavy;Tech Tree;1.450.300;55.000;-;-;-;725.150;-
+52513;205;A45;M6A2E1;M6A2E1;VII;Heavy;Premium;-;-;5.200;2.080.000;-;1.040.000;-
+11041;43;A72;T25/2;T25/2;VII;TD;Tech Tree;1.364.000;49.970;-;-;-;682.000;-
+9249;36;A64;T25 AT;T25 AT;VII;TD;Tech Tree;1.327.000;59.500;-;-;-;663.500;-
+56609;221;A102;T28 Concept;T28 HTC;VII;TD;Collector;-;-;5.000;-;5.000;-;2.500
+23841;93;A130;Super Hellcat;Super Hellcat;VII;TD;Collector;-;-;5.000;-;5.000;-;2.500
+16673;65;A94;T37;T37;VI;Light;Tech Tree;910.000;31.500;-;-;-;455.000;-
+9761;38;A34;M24 Chaffee;Chaffee;VI;Light;Tech Tree;900.000;31.500;-;-;-;450.000;-
+26913;105;-;Frosty;Frosty;VI;Light;Collector;-;-;500;-;1.000;-;500
+25889;101;-;Ranger;Ranger;VI;Light;Collector;-;-;500;-;1.000;-;500
+15137;59;A71;T21;T21;VI;Light;Collector;-;-;500;-;1.000;-;500
+1313;5;A06;M4A3E8 Sherman;M4A3E8;VI;Medium;Tech Tree;930.500;28.500;-;-;-;465.250;-
+56097;219;A104;M4A3E8 Fury;Fury;VI;Medium;Premium;-;-;4.000;1.600.000;-;800.000;-
+24097;94;-;BLTZ9000;BLTZ9000;VI;Medium;Collector;-;-;500;-;1.000;-;500
+21537;84;-;Sherman Easy 8;Sherman Easy 8;VI;Medium;Collector;-;-;10;-;20;-;10
+21281;83;-;Rudolph;Rudolph;VI;Medium;Collector;-;-;500;-;1.000;-;500
+10017;39;A36;M4A3E2 Sherman Jumbo;M4A3E2;VI;Medium;Collector;-;-;500;-;1.000;-;500
+801;3;A10;M6;M6;VI;Heavy;Tech Tree;885.000;25.000;-;-;-;442.500;-
+27681;108;A142;Pawlack Tank;Pawlack Tank;VI;Heavy;Collector;-;-;3.500;-;3.500;-;1.750
+27169;106;-;Cyborg;Cyborg;VI;Heavy;Collector;-;-;500;-;1.000;-;500
+22049;86;-;Magnus;Magnus;VI;Heavy;Collector;-;-;500;-;1.000;-;500
+11553;45;A41;M18 Hellcat;Hellcat;VI;TD;Tech Tree;950.000;25.000;-;-;-;475.000;-
+7201;28;A31;M36 Jackson;Jackson;VI;TD;Tech Tree;884.200;25.000;-;-;-;442.100;-
+26401;103;-;Enforcer;Enforcer;VI;TD;Collector;-;-;500;-;1.000;-;500
+1057;4;A05;M4 Sherman;M4 Sherman;V;Medium;Tech Tree;400.000;10.500;-;-;-;200.000;-
+51745;202;A62;Ram II;Ram II;V;Medium;Premium;-;-;1.750;700.000;-;350.000;-
+52257;204;A44;M4A2E4 Sherman;M4A2E4;V;Medium;Collector;-;-;1.750;-;4.700;-;2.350
+26145;102;A05;High Score;High Score;V;Medium;Collector;-;-;250;-;500;-;250
+3361;13;A09;T1 Heavy Tank;T1 Heavy;V;Heavy;Tech Tree;400.000;10.500;-;-;-;200.000;-
+33;0;A21;T14;T14;V;Heavy;Premium;-;-;2.500;1.000.000;-;500.000;-
+6945;27;A30;M10 Wolverine;Wolverine;V;TD;Tech Tree;400.000;7.000;-;-;-;200.000;-
+10529;41;A58;T67;T67;V;TD;Collector;-;-;250;-;500;-;250
+5409;21;A23;M7;M7;IV;Medium;Tech Tree;85.000;2.500;-;-;-;42.500;-
+12321;48;A77;T6E1 Grizzly;T6E1 Grizzly;IV;Medium;Premium;-;-;1.500;600.000;-;300.000;-
+3105;12;A04;M3 Lee;M3 Lee;IV;Medium;Collector;-;-;100;-;200;-;100
+10273;40;A57;M8A1;M8A1;IV;TD;Tech Tree;85.000;2.500;-;-;-;42.500;-
+7713;30;A29;T40;T40;IV;TD;Collector;-;-;100;-;200;-;100
+5153;20;A22;M5 Stuart;M5 Stuart;III;Light;Tech Tree;6.000;700;-;-;-;3.000;-
+52769;206;A43;M22 Locust;Locust;III;Light;Collector;-;-;1.000;-;2.000;-;1.000
+4897;19;A25;M2 Medium Tank;M2 Medium;III;Medium;Collector;-;-;50;-;100;-;50
+6433;25;A27;T82;T82;III;TD;Collector;-;-;50;-;100;-;50
+289;1;A03;M3 Stuart;M3 Stuart;II;Light;Tech Tree;1.200;210;-;-;-;600;-
+55073;215;A93;T7 Combat Car;T7 Car;II;Light;Collector;-;-;650;-;1.300;-;650
+53537;209;A74;T1E6;T1E6;II;Light;Collector;-;-;750;-;1.500;-;750
+51489;201;A19;T2 Light Tank;T2 Light;II;Light;Collector;-;-;650;-;1.300;-;650
+5665;22;A24;T2 Medium Tank;T2 Medium;II;Medium;Collector;-;-;25;-;50;-;25
+6177;24;A26;T18;T18;II;TD;Collector;-;-;25;-;50;-;25
+1825;7;A02;M2 Light Tank;M2 Light;I;Light;Tech Tree;0;550;-;-;-;0;-
+545;2;A01;T1 Cunningham;T1;I;Light;Tech Tree;0;0;-;-;-;0;-

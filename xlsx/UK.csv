@@ -1,0 +1,103 @@
+﻿DEV ID;National ID;Letter ID;Full Name;Short Name;Tier;Class;Type;Price (Credits);Price (XP);Price (Gold);Restoration Price (Credits);Restorarion Price (Gold);Sale Price (Credits);Sale Price (Gold)
+19537;76;-;Vickers Light 105;Vickers Light;X;Light;Tech Tree;6.100.000;275.000;-;-;-;3.050.000;-
+7249;28;GB70;FV4202;FV4202;X;Medium;Tech Tree;6.100.000;225.000;-;-;-;3.050.000;-
+6225;24;GB13;FV215b;FV215b;X;Heavy;Tech Tree;6.100.000;262.500;-;-;-;3.050.000;-
+25169;98;GB141;GSOR the TANK;GSOR the TANK;X;Heavy;Collector;-;-;15.000;-;15.000;-;7.500
+19281;75;GB91;Super Conqueror;Super Conqueror;X;Heavy;Collector;-;-;15.000;-;15.000;-;7.500
+15697;61;GB84;Chieftain Mk. 6;Chieftain Mk. 6;X;Heavy;Collector;-;-;15.000;-;15.000;-;7.500
+18001;70;GB83;FV4005;FV4005;X;TD;Tech Tree;6.100.000;280.000;-;-;-;3.050.000;-
+9297;36;GB48;FV215b (183);FV215b 183;X;TD;Tech Tree;6.100.000;293.750;-;-;-;3.050.000;-
+17745;69;GB92;FV217 Badger;FV217 Badger;X;TD;Collector;-;-;15.000;-;15.000;-;7.500
+19793;77;-;Vickers Cruiser;Vickers CR;IX;Light;Tech Tree;3.450.000;170.000;-;-;-;1.725.000;-
+5713;22;GB24;Centurion Mk. 7/1;Centurion 7/1;IX;Medium;Tech Tree;3.515.000;165.000;-;-;-;1.757.500;-
+23121;90;GB106;Cobra;Cobra;IX;Medium;Collector;-;-;10.000;-;10.000;-;5.000
+4433;17;GB12;Conqueror;Conqueror;IX;Heavy;Tech Tree;3.600.000;110.000;-;-;-;1.800.000;-
+23889;93;GB110;FV4201 Chieftain Proto;FV4201 Chieftain Proto;IX;Heavy;Collector;-;-;10.000;-;10.000;-;5.000
+52561;205;GB32;Tortoise;Tortoise;IX;TD;Tech Tree;3.500.000;161.000;-;-;-;1.750.000;-
+17233;67;GB81;FV4004 Conway;Conway;IX;TD;Tech Tree;3.500.000;160.000;-;-;-;1.750.000;-
+20049;78;-;FV301;FV301;VIII;Light;Tech Tree;2.320.000;100.000;-;-;-;1.160.000;-
+23377;91;GB101;FV1066 Senlac;FV1066 Senlac;VIII;Light;Collector;-;-;7.500;-;7.500;-;3.750
+5969;23;GB23;Centurion Mk. I;Centurion I;VIII;Medium;Tech Tree;2.350.000;100.000;-;-;-;1.175.000;-
+19025;74;-;Defender Mk. 1;Defender Mk. 1;VIII;Medium;Premium;-;-;7.200;2.880.000;-;1.440.000;-
+24913;97;GB128;Nemesis;Nemesis;VIII;Medium;Collector;-;-;7.500;-;7.500;-;3.750
+24401;95;GB114;Vickers MBT Mk. 3;Vickers MBT Mk. 3;VIII;Medium;Collector;-;-;7.500;-;7.500;-;3.750
+20305;79;GB94;Centurion Mk. 5/1 RAAC;Centurion Mk. 5/1;VIII;Medium;Collector;-;-;7.500;-;7.500;-;3.750
+18513;72;GB97;Chimera;Chimera;VIII;Medium;Collector;-;-;7.500;-;7.500;-;3.750
+3921;15;GB11;Caernarvon;Caernarvon;VIII;Heavy;Tech Tree;2.520.000;110.000;-;-;-;1.260.000;-
+22865;89;GB111;Charlemagne;Charlemagne;VIII;Heavy;Premium;-;-;7.600;3.040.000;-;1.520.000;-
+22609;88;GB11;Caernarvon Defender;Caernarvon Defender;VIII;Heavy;Premium;-;-;7.500;3.000.000;-;1.500.000;-
+21841;85;GB112;Caliban;Caliban;VIII;Heavy;Collector;-;-;7.500;-;7.500;-;3.750
+18769;73;GB93;Caernarvon Action X;Action X;VIII;Heavy;Collector;-;-;7.500;-;7.500;-;3.750
+15441;60;GB87;Chieftain/T95;Chieftain;VIII;Heavy;Collector;-;-;7.500;-;7.500;-;3.750
+17489;68;GB80;Charioteer;Charioteer;VIII;TD;Tech Tree;2.650.000;106.250;-;-;-;1.325.000;-
+8529;33;GB72;AT 15;AT 15;VIII;TD;Tech Tree;2.650.000;92.000;-;-;-;1.325.000;-
+20561;80;GB99;Turtle Mk. I;Turtle Mk. I;VIII;TD;Premium;-;-;7.200;2.880.000;-;1.440.000;-
+24145;94;GB109;GSOR 1008 Fearless;GSOR Fearless;VIII;TD;Collector;-;-;7.500;-;7.500;-;3.750
+21329;83;GB109;GSOR 1008;GSOR 1008;VIII;TD;Collector;-;-;7.500;-;7.500;-;3.750
+24657;96;GB108;A46 Different;A46 Different;VII;Light;Collector;-;-;5.000;-;5.000;-;2.500
+5457;21;GB22;Comet;Comet;VII;Medium;Tech Tree;1.350.500;68.440;-;-;-;675.250;-
+3153;12;GB10;Black Prince;Black Prince;VII;Heavy;Tech Tree;1.400.000;63.720;-;-;-;700.000;-
+15953;62;GB52;FV201 (A45);FV201 (A45);VII;Heavy;Premium;-;-;5.200;2.080.000;-;1.040.000;-
+18257;71;GB41;Challenger;Challenger;VII;TD;Tech Tree;1.400.000;65.680;-;-;-;700.000;-
+10065;39;GB75;AT 7;AT 7;VII;TD;Tech Tree;1.400.000;66.080;-;-;-;700.000;-
+54097;211;GB71;AT 15A;AT 15A;VII;TD;Collector;-;-;5.000;-;5.000;-;2.500
+1105;4;GB21;Cromwell;Cromwell;VI;Medium;Tech Tree;900.000;25.000;-;-;-;450.000;-
+593;2;GB19;Sherman Firefly;Sherman Firefly;VI;Medium;Tech Tree;945.000;25.000;-;-;-;472.500;-
+64337;251;GB35;AC IV Sentinel;AC IV Sentinel;VI;Medium;Premium;-;-;3.000;1.200.000;-;600.000;-
+55889;218;GB85;Cromwell B;Cromwell B;VI;Medium;Premium;-;-;3.000;1.200.000;-;600.000;-
+20817;81;GB21;Explorer;Explorer;VI;Medium;Collector;-;-;500;-;1.000;-;500
+4689;18;GB09;Churchill VII;Churchill VII;VI;Heavy;Tech Tree;900.000;25.000;-;-;-;450.000;-
+53841;210;GB63;TOG II*;TOG II*;VI;Heavy;Premium;-;-;3.500;1.400.000;-;700.000;-
+1361;5;-;Churchill Mk. VI;Churchill Mk. VI;VI;Heavy;Premium;-;-;3.500;1.400.000;-;700.000;-
+22353;87;GB09;Churchill W;Churchill W;VI;Heavy;Collector;-;-;500;-;1.000;-;500
+22097;86;-;Churchill VIII;Churchill VIII;VI;Heavy;Collector;-;-;3.500;-;3.500;-;1.750
+21585;84;GB63;Blasteroid;Blasteroid;VI;Heavy;Collector;-;-;500;-;1.000;-;500
+9553;37;GB74;AT 8;AT 8;VI;TD;Tech Tree;940.000;25.000;-;-;-;470.000;-
+21073;82;GB40;Dreadnought;Dreadnought;VI;TD;Collector;-;-;500;-;1.000;-;500
+9809;38;GB40;Churchill Gun Carrier;Churchill GC;VI;TD;Collector;-;-;500;-;1.000;-;500
+2129;8;GB20;Crusader;Crusader;V;Light;Tech Tree;400.000;10.500;-;-;-;200.000;-
+53585;209;GB68;Matilda Black Prince;Matilda BP;V;Medium;Premium;-;-;2.250;900.000;-;450.000;-
+23633;92;GB116;A25 Harry Hopkins I;A25 Harry Hopkins I;V;Medium;Collector;-;-;2.500;-;2.500;-;1.250
+1617;6;-;Sherman V;Sherman V;V;Medium;Collector;-;-;250;-;500;-;250
+2897;11;GB08;Churchill I;Churchill I;V;Heavy;Tech Tree;400.000;10.500;-;-;-;200.000;-
+54353;212;GB51;Excelsior;Excelsior;V;Heavy;Premium;-;-;2.500;1.000.000;-;500.000;-
+8785;34;GB73;AT 2;AT 2;V;TD;Tech Tree;400.000;7.000;-;-;-;200.000;-
+64593;252;GB44;Angry Connor;Angry Connor;V;TD;Premium;-;-;3.500;1.400.000;-;700.000;-
+6481;25;GB60;Covenanter;Covenanter;IV;Light;Collector;-;-;100;-;200;-;100
+4945;19;GB04;Valentine Mk. IX;Valentine Mk. IX;IV;Light;Collector;-;-;100;-;200;-;100
+64849;253;-;AC 1 Sentinel;AC 1 Sentinel;IV;Medium;Collector;-;-;1.000;-;2.000;-;1.000
+849;3;GB07;Matilda;Matilda;IV;Heavy;Tech Tree;85.000;2.500;-;-;-;42.500;-
+9041;35;GB57;Alecto;Alecto;IV;TD;Tech Tree;85.000;2.500;-;-;-;42.500;-
+7505;29;GB59;Cruiser Mk. IV;Cruiser IV;III;Medium;Tech Tree;6.000;700;-;-;-;3.000;-
+2385;9;GB06;Vickers Medium Mk. III;Medium III;III;Medium;Collector;-;-;50;-;100;-;50
+8017;31;GB42;Valentine AT;Valentine AT;III;TD;Collector;-;-;50;-;100;-;50
+54865;214;GB76;Light Mk. VIC;Light VIC;II;Light;Collector;-;-;750;-;1.500;-;750
+5201;20;GB03;Cruiser Mk. I;Cruiser I;II;Light;Collector;-;-;25;-;50;-;25
+7761;30;GB58;Cruiser Mk. III;Cruiser III;II;Medium;Tech Tree;1.200;210;-;-;-;600;-
+337;1;GB05;Vickers Medium Mk. II;Medium II;II;Medium;Collector;-;-;25;-;50;-;25
+8273;32;GB39;Universal Carrier 2-pdr;UC 2-pdr;II;TD;Collector;-;-;25;-;50;-;25
+6993;27;GB69;Cruiser Mk. II;Cruiser II;I;Light;Tech Tree;0;0;-;-;-;0;-
+81;0;GB01;Vickers Medium Mk. I;Medium I;I;Medium;Tech Tree;0;0;-;-;-;0;-
+64081;250;-;Mk I* Heavy Tank;Mk I* Heavy Tank;I;Heavy;Premium;-;-;5;2.000;-;1.000;-
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
